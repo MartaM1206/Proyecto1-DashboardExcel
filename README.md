@@ -19,17 +19,21 @@
      Este proyecto usa Excel versión 2410 
 
 
-📊 <span style="color:Yellow">**Resultados y Conclusiones**</span>
+📊 <span style="color:PaleVioletRed">**Resultados y Conclusiones**</span>
 
-        - Identificamos un aumento estacional en las ventas durante los meses de noviembre y diciembre.
-        - El modelo predictivo alcanzó un 85% de precisión en la estimación de ventas futuras.
-        - El análisis sugiere que los descuentos y promociones tienen un impacto directo en el comportamiento de compra de los clientes.
-        ```
+        - Identificamos un aumento anual en los ingresos hasta el tercer trimestre de 2014, cuando se produce una caída pronunciada, de aproximadamente el 50%.
+        - El país que más ingresos genera es Estados Unidos, con una diferencia de más de 100 millones sobre Japón, el segundo en ingresos.
+        - Aunque en total, las tiendas de tipo Outdoor Shop son las que más ingresos generan, con bastante diferencia sobre los demás, no se da en todos los países, como es el caso de Korea o Dinamarca, por ejemplo. Además, hay países que no tienen todos los tipos de tiendas.
+        - La amplia mayoría de órdenes se producen vía Web.
+        - En cuanto a la línea de producto con más ingresos es la de Personal Accessories, lo que corresponde con los productos con más unidades vendidas.
+        - De los productos más rentables ninguno pertenece a la línea más vendida. 
+       ![alt text](image-2.png)
+
 
 🔄 <span style="color:Yellow">**Próximos Pasos**</span>
 
-        - Refinar el modelo predictivo usando más datos históricos.
-        - Implementar técnicas avanzadas de feature engineering para mejorar la precisión.
+        - Analizar la posibilidad de dejar de vender en los países que generan menos ingresos.
+        - Trasladar todo el sistema de órdenes a los mayoritarios para reducir costes.
         - Explorar el impacto de factores externos como campañas de marketing y eventos en las ventas.
         ```
 
