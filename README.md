@@ -36,7 +36,8 @@ Este proyecto usa Excel versión 2410 y se han utilizado las siguientes herramie
 
 - De los productos más rentables ninguno pertenece a la línea más vendida. 
 
-![alt text](image.png)
+![alt text](image-2.png)
+
 
 - Al analizar las preferencias por país se puede ver que las tiendas tipo Outdoor Shop no son las favoritas en todos los países, como es el caso de Korea o Dinamarca, por ejemplo. Además, hay países que no tienen todos los tipos de tiendas. 
 
