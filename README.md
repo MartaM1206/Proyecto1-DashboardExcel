@@ -2,7 +2,8 @@
 
 :book: <span style="color:PaleVioletRed">**Descripción**</span>
 
-Este proyecto realiza un análisis exploratorio y descriptivo de las ventas de productos de diferentes líneas y categorías de una tienda de artículos deportivos al por menor.
+Este proyecto realiza un análisis exploratorio y descriptivo de las ventas de productos de diferentes líneas y categorías de una tienda de artículos deportivos al por menor. 
+El análisis se centra en los ingresos derivados de las ventas y las preferencias de los distintos países.
         
 
 :file_folder: <span style="color:PaleVioletRed">**Estructura del Proyecto**</span>
@@ -35,14 +36,15 @@ Este proyecto usa Excel versión 2410 y se han utilizado las siguientes herramie
 
 - De los productos más rentables ninguno pertenece a la línea más vendida. 
 
-![alt text](image-4.png)
+![alt text](image.png)
 
 - Al analizar las preferencias por país se puede ver que las tiendas tipo Outdoor Shop no son las favoritas en todos los países, como es el caso de Korea o Dinamarca, por ejemplo. Además, hay países que no tienen todos los tipos de tiendas. 
+
 - Ocurre lo mismo con la línea de producto más vendida, aunque a nivel general es Personal Accessories, en países como Korea o México se vende más Camping Equipment.
 
 - Por otro lado, se puede ver que el método de orden preferido es la Web y que prácticamente no se hacen pedidos por los métodos Mail y Special. 
 
-![alt text](image-6.png)
+![alt text](image-1.png)
 
 
 
